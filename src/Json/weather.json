@@ -1,0 +1,149 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2018-05-09T15:52:58Z",
+  "lang": "ru-RU",
+  "results": {
+   "channel": {
+    "units": {
+     "distance": "km",
+     "pressure": "mb",
+     "speed": "km/h",
+     "temperature": "C"
+    },
+    "title": "Yahoo! Weather - Yekaterinburg, Sverdlovsk Oblast, RU",
+    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2112237/",
+    "description": "Yahoo! Weather for Yekaterinburg, Sverdlovsk Oblast, RU",
+    "language": "en-us",
+    "lastBuildDate": "Wed, 09 May 2018 08:52 PM YEKT",
+    "ttl": "60",
+    "location": {
+     "city": "Yekaterinburg",
+     "country": "Russia",
+     "region": " Sverdlovsk Oblast"
+    },
+    "wind": {
+     "chill": "39",
+     "direction": "293",
+     "speed": "28.97"
+    },
+    "atmosphere": {
+     "humidity": "59",
+     "pressure": "33017.30",
+     "rising": "0",
+     "visibility": "25.91"
+    },
+    "astronomy": {
+     "sunrise": "4:51 am",
+     "sunset": "8:58 pm"
+    },
+    "image": {
+     "title": "Yahoo! Weather",
+     "width": "142",
+     "height": "18",
+     "link": "http://weather.yahoo.com",
+     "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+    },
+    "item": {
+     "title": "Conditions for Yekaterinburg, Sverdlovsk Oblast, RU at 08:00 PM YEKT",
+     "lat": "56.82589",
+     "long": "60.62957",
+     "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2112237/",
+     "pubDate": "Wed, 09 May 2018 08:00 PM YEKT",
+     "condition": {
+      "code": "34",
+      "date": "Wed, 09 May 2018 08:00 PM YEKT",
+      "temp": "7",
+      "text": "Mostly Sunny"
+     },
+     "forecast": [
+      {
+       "code": "39",
+       "date": "09 May 2018",
+       "day": "Wed",
+       "high": "14",
+       "low": "1",
+       "text": "Scattered Showers"
+      },
+      {
+       "code": "26",
+       "date": "10 May 2018",
+       "day": "Thu",
+       "high": "6",
+       "low": "1",
+       "text": "Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "11 May 2018",
+       "day": "Fri",
+       "high": "12",
+       "low": "1",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "12 May 2018",
+       "day": "Sat",
+       "high": "11",
+       "low": "1",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "34",
+       "date": "13 May 2018",
+       "day": "Sun",
+       "high": "13",
+       "low": "-3",
+       "text": "Mostly Sunny"
+      },
+      {
+       "code": "30",
+       "date": "14 May 2018",
+       "day": "Mon",
+       "high": "18",
+       "low": "4",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "15 May 2018",
+       "day": "Tue",
+       "high": "16",
+       "low": "1",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "34",
+       "date": "16 May 2018",
+       "day": "Wed",
+       "high": "12",
+       "low": "1",
+       "text": "Mostly Sunny"
+      },
+      {
+       "code": "28",
+       "date": "17 May 2018",
+       "day": "Thu",
+       "high": "20",
+       "low": "1",
+       "text": "Mostly Cloudy"
+      },
+      {
+       "code": "28",
+       "date": "18 May 2018",
+       "day": "Fri",
+       "high": "19",
+       "low": "12",
+       "text": "Mostly Cloudy"
+      }
+     ],
+     "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/34.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Mostly Sunny\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Wed - Scattered Showers. High: 14Low: 1\n<BR /> Thu - Cloudy. High: 6Low: 1\n<BR /> Fri - Partly Cloudy. High: 12Low: 1\n<BR /> Sat - Partly Cloudy. High: 11Low: 1\n<BR /> Sun - Mostly Sunny. High: 13Low: -3\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2112237/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+     "guid": {
+      "isPermaLink": "false"
+     }
+    }
+   }
+  }
+ }
+}
