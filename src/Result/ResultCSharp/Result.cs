@@ -21,12 +21,10 @@ namespace ResultCSharp
         public string Error { get; }
         internal T Value { get; }
 
-        public T GetValueOrThrow()
-        {
-            return IsSuccess 
-                ? Value 
+        public T GetValueOrThrow() =>
+            IsSuccess
+                ? Value
                 : throw new InvalidOperationException($"No value. Only Error {Error}");
-        }
     }
 
     public static class Result
